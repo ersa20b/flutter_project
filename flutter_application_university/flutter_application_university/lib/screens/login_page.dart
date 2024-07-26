@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_university/home_page.dart';
-import 'package:flutter_application_university/my_login_botton.dart';
-import 'package:flutter_application_university/my_textfeild.dart';
+import 'package:flutter_application_university/screens/home_page.dart';
+import 'package:flutter_application_university/widgets/my_login_botton.dart';
+import 'package:flutter_application_university/widgets/my_textfeild.dart';
 
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});
